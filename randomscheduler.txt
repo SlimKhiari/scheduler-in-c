@@ -1,0 +1,7 @@
+On récupère la taille de la liste des processus prets. 
+On génère un nombre aléatoire entre 0 et le nombre représentant la taille de cette liste, "selected".
+On recupère le premier processus dans la liste des processus prets.
+Ensuite, on repete "selected" fois ce fonctionnement: à chaque fois on prend le processus suivant.
+On génére un horloge aléatoire "deltat" qui est un entier entre 1 et l'entier représentant le reste des
+processus. 
+Enfin, on renvoie la strcuture du processus à réveiller.

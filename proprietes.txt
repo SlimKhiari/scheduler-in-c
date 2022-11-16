@@ -1,0 +1,3 @@
+Oui, nous remarquons que le temps d'attente moyen est optimal pour les ordonnancements SJF/SRTF par rapport à RR et FCFS. 
+
+question 20: Nous avons bien eu les memes resultats qu'en cours.
