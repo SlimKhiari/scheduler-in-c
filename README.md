@@ -1,9 +1,9 @@
 In this project, we implemented different scheduling algorithms studied in progress: FCFS, RR, SJF, SRTF; and in the last part real-time scheduling algorithms: EDF and RM.
 
 To be able to generate the LaTeX report of the simulator, you must install the packages with the following command:
-  $ sudo apt-get install --no-install-recommends texlive-fonts-recommended
-  texlive-latex-base texlive-generic-recommended texlive-pstricks
-  texlive-latex-extra texlive-lang-french
+  > $ sudo apt-get install --no-install-recommends texlive-fonts-recommended
+  > texlive-latex-base texlive-generic-recommended texlive-pstricks
+  > texlive-latex-extra texlive-lang-french
 
 A scheduling simulator is provided to you.
 To unzip it into your directory, you will use the following commands:
